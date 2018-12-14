@@ -28,4 +28,4 @@
 #### References
 
 1. [Analytics Vidya](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/)
-2. [Stand Ford University Course](https://see.stanford.edu/Course/CS229)
+2. [Standford University Course](https://see.stanford.edu/Course/CS229)
