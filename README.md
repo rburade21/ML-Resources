@@ -1,3 +1,3 @@
 # ML-Resources
 
-1. [Python for DataScience](ML-Resources/Python for datascience.md)
+1. [Python for DataScience](Python for datascience.md)
