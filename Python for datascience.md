@@ -30,3 +30,4 @@
 1. [Analytics Vidya](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/)
 2. [elitedatascience.com](https://elitedatascience.com/learn-python-for-data-science)
 3. [Standford University Course](https://see.stanford.edu/Course/CS229)
+4. [Introduction to machine learning](https://classroom.udacity.com/courses/ud120-india)
