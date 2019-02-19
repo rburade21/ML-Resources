@@ -10,7 +10,7 @@
       * SVM
       * Descision Trees
       * KNeighbors
-    * Regression 
+    * Regression (Continues Supervised ML) 
       * Ordinary Least Squares (OLS)
       * Gradient Descent
    
