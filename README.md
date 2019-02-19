@@ -4,3 +4,8 @@
 
 1. [Python for DataScience](https://github.com/rburade21/ML-Resources/blob/master/Python%20for%20datascience.md)
 2. [Statistics](https://www.udacity.com/course/ud827)
+3. machine learning algorithms
+    * supervised ML
+      * Naive Bayes
+      * SVM
+      * Descision Trees
