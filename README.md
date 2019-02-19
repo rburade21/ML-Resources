@@ -10,4 +10,6 @@
       * SVM
       * Descision Trees
       * KNeighbors
+    * Regression   
+   
       
