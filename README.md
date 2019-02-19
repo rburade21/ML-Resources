@@ -9,3 +9,5 @@
       * Naive Bayes
       * SVM
       * Descision Trees
+      * KNeighbors
+      
