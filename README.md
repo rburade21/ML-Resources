@@ -10,6 +10,8 @@
       * SVM
       * Descision Trees
       * KNeighbors
-    * Regression   
+    * Regression 
+      * Ordinary Least Squares (OLS)
+      * Gradient Descent
    
       
