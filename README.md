@@ -17,7 +17,7 @@
     * Unsupervised Learning
       * K-Means Clustering  
   4. Learning from Text
-      * data stemming
+      * data stemming (using stemmers)
       * data bagging
       * TfidfVectorizer
       * removing stopwords
