@@ -13,5 +13,14 @@
     * Regression (Continues Supervised ML) 
       * Ordinary Least Squares (OLS)
       * Gradient Descent
+      
+    * Unsupervised Learning
+      * K-Means Clustering  
+  4. Learning from Text
+      * data stemming
+      * data bagging
+      * TfidfVectorizer
+      * removing stopwords
+    
    
       
