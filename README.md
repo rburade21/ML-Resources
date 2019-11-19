@@ -1,6 +1,7 @@
 # ML-Resources
 
-*%{color:orange}Rajat%*
+*%{color:orange}Hello !!%*
+
 [Introduction to machine learning](https://classroom.udacity.com/courses/ud120)
 
 1. [Python for DataScience](https://github.com/rburade21/ML-Resources/blob/master/Python%20for%20datascience.md)
