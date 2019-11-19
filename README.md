@@ -1,6 +1,6 @@
 # ML-Resources
 
-*%{color:orange}Hello !!%*
+
 
 [Introduction to machine learning](https://classroom.udacity.com/courses/ud120)
 
